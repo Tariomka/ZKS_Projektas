@@ -1726,9 +1726,9 @@ textarea.form-control {
 }
 /* Pannel header */
 .header-view-pannel {
-  background: #fff;
-  -webkit-box-shadow: 0 5px 5px rgba(0,0,0,0.5);
-  box-shadow: 0 5px 5px rgba(0,0,0,0.5);
+    background: #ffcb08;
+    -webkit-box-shadow: 0 5px 5px rgba(0,0,0,0.5);
+    box-shadow: 0 5px 5px rgba(0,0,0,0.5);
 }
 .header-view-pannel + .after-head .top-block,
 .header-view-pannel + .after-head .top-central {
@@ -1754,7 +1754,7 @@ textarea.form-control {
   }
   .header-view-pannel .navbar-brand {
     font-size: 3rem;
-    min-width: 20%;
+    min-width: 15%;
     margin-right: 2rem;
   }
   .header-view-pannel .navbar-nav > .nav-item {
