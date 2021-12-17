@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GnZZpJXi1Hz8mhdFuNSW/NtVbUZaF2eNsYu8oJCoGbLs9q3WkG+RR1PIqPLJtg+eNTryW8I7TgfI6BYz02MMZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abudabi\\Desktop\\ZKS Projektas\\Projektas\\Projektas\\Projektas.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abudabi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.14\\microsoft.netcore.app.host.win-x64.3.1.14.nupkg.sha512"
+  ],
+  "logs": []
+}
