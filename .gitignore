@@ -1,0 +1,8 @@
+
+*.v2
+.vs/Cinema/v16/.suo
+Cinema/obj/Cinema.csproj.nuget.dgspec.json
+*.props
+*.cache
+*.editorconfig
+Cinema/obj/project.assets.json
