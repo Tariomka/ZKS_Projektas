@@ -1,0 +1,14 @@
+
+*.v2
+.vs/Cinema/v16/.suo
+Cinema/obj/Cinema.csproj.nuget.dgspec.json
+*.props
+*.cache
+*.editorconfig
+Cinema/obj/project.assets.json
+Cinema/bin/Debug/net5.0/Cinema.runtimeconfig.dev.json
+*.exe
+*.dll
+Cinema/obj/Cinema.csproj.nuget.dgspec.json
+Cinema/obj/project.assets.json
+Cinema/Cinema.csproj.user
