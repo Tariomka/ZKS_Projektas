@@ -8,27 +8,28 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Karolis\\.nuget\\packages\\": {},
+    "C:\\Users\\Abudabi\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Karolis\\Desktop\\WEB\\Cinema\\Cinema\\Cinema.csproj",
+      "projectUniqueName": "C:\\GitHub\\ZKS_Projektas\\Cinema\\Cinema.csproj",
       "projectName": "Cinema",
-      "projectPath": "C:\\Users\\Karolis\\Desktop\\WEB\\Cinema\\Cinema\\Cinema.csproj",
-      "packagesPath": "C:\\Users\\Karolis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Karolis\\Desktop\\WEB\\Cinema\\Cinema\\obj\\",
+      "projectPath": "C:\\GitHub\\ZKS_Projektas\\Cinema\\Cinema.csproj",
+      "packagesPath": "C:\\Users\\Abudabi\\.nuget\\packages\\",
+      "outputPath": "C:\\GitHub\\ZKS_Projektas\\Cinema\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Karolis\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Abudabi\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -70,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

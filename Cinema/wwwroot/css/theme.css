@@ -73,6 +73,30 @@ body-white {
   padding-left: 1rem;
   padding-right: 1rem;
 }
+.buy-container-blue {
+    background-color: #2B3543;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    max-width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 25%;
+}
+.buy-container-head {
+    width: 60%;
+}
+.buy-container-button {
+    width: 40%
+}
+.btn-theme-green {
+    background-color: #8BE519;
+    border-color: rgba(255,255,255,0.1);
+    color: #000 !important;
+    font-weight: 700;
+    font-size: 20px !important;
+}
 @media (min-width: 576px) {
   .container {
     max-width: 500px;
