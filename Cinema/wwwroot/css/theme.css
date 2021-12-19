@@ -56,6 +56,14 @@ body-white {
     line-height: 1.75;
     background-color: #fff;
 }
+
+.theatre {
+    display: flex;
+    position: absolute;
+    top: 70%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
 /*------------------------------------------------------------------
     [2. Layout]
 */
@@ -80,6 +88,7 @@ body-white {
     max-width: 920px;
   }
 }
+
 @media (min-width: 1200px) {
   .container {
     max-width: 1120px;
