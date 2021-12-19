@@ -1215,9 +1215,9 @@ textarea.form-control {
   min-width: 3.5rem;
 }
 .btn-time {
-  background-color: #999;
-  border-color: rgba(255,255,255,0.1);
-  color: #fff;
+    background-color: #000;
+    border-color: #000;
+    color: #fff;
 }
 .btn-outline-time {
   border-color: #999;
