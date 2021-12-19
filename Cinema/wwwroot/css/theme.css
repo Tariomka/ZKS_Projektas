@@ -3330,6 +3330,12 @@ a.paginator-item:hover {
 .section-text-white .entity-icon {
   color: inherit;
 }
+
+.dark-mode {
+    background-color: black;
+    color: white;
+}
+
 /* The switch - the box around the slider */
 .switch {
     position: relative;
