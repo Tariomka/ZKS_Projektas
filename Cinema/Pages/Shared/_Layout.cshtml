@@ -60,6 +60,14 @@
         </div>
     </header>
 
+    <div class="w-100 mt-2 mb-2 input-group bg-cinema-orange">
+        <input type="search" class="bg-cinema-orange form-control border-0" placeholder="Ieškojimo tekstas..." aria-label="Search"
+               aria-describedby="search-addon" />
+        <span class="input-group-text border-0 bg-cinema-orange" id="search-addon">
+            <i class="fas fa-search"></i>
+        </span>
+    </div>
+
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
@@ -69,9 +77,9 @@
     <footer class="section-text-black footer footer-links bg-cinema-orange">
         <div class="footer-body container">
             <div class="center">
-                    <a class="footer-logo" asp-page="/Index">
-                        <img src="./images/parts/forum-logo.png" alt="Logo">
-                    </a>
+                <a class="footer-logo" asp-page="/Index">
+                    <img src="./images/parts/forum-logo.png" alt="Logo">
+                </a>
             </div>
         </div>
         <div class="footer-copy">
